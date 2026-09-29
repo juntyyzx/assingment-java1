@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "isleap",
+            "request": "launch",
+            "mainClass": "isleap",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "greatest",
+            "request": "launch",
+            "mainClass": "greatest",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "devidable",
+            "request": "launch",
+            "mainClass": "devidable",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "studentsmark",
+            "request": "launch",
+            "mainClass": "studentsmark",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "whichgreater",
+            "request": "launch",
+            "mainClass": "whichgreater",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "oddornot",
+            "request": "launch",
+            "mainClass": "oddornot",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "isadult",
+            "request": "launch",
+            "mainClass": "isadult",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "posorneg",
+            "request": "launch",
+            "mainClass": "posorneg",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_768f1660"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
