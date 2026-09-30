@@ -4,7 +4,7 @@ public class temp {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите температуру:");
         int a = scanner.nextInt();
-        if (a <= 0) {
+        if (a < 0) {
             System.out.println("Очень холодно");
         }
         else if (a <= 10) {
